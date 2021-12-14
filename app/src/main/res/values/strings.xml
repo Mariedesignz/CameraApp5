@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraApp5</string>
+    <string name="button">Button</string>
+    <string name="say_cheese">Say Cheese!</string>
+</resources>
